@@ -4,3 +4,6 @@
 node_modules
 temp
 dist
+.DS_Store
+.build.sh.swp
+deploy
